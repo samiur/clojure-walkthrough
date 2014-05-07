@@ -68,7 +68,7 @@
 
 ;; Write a function that doubles a number
 
-(let [your-fn (fn [x] (* x 2))]
+(let [your-fn __]
   (and
     (= (your-fn 2) 4)
     (= (your-fn 0) 0)
