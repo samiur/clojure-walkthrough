@@ -1,14 +1,18 @@
-# clojure-walkthrough
+# Clojure Walkthrough with Light Table
 
-A Clojure library designed to ... well, that part is up to you.
+An introductory walkthrough of the features/concepts of Clojure intended to be used with [Light Table](http://lighttable.com).
+
+The exercises in here are heavily inspired by [4clojure](http://www.4clojure.com/).
 
 ## Usage
 
-FIXME
+- Install Light Table
+- Install [Leiningen](http://leiningen.org/)
+- Clone this repository
+- Open this project in Light Table and solve the exercises while in Instarepl mode.
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Samiur Rahman and contributors.
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
